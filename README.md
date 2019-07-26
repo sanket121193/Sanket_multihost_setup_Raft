@@ -33,6 +33,8 @@ modify ./artifacts/network-config.yaml file with corresponding IP adsress of PC1
 
 ##### STEP 1
 * Terminal PC1
+
+run ./stopApp.sh
 ```
 docker swarm init
 ```
